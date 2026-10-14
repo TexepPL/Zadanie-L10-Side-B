@@ -1,0 +1,24 @@
+body, html {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+div.centered  {
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    display: flex;
+    font-size: 40px;
+    width: 50%;
+    text-align: center;
+}
+
+img {
+    width: 30%;
+    height: 30%;
+}
